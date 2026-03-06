@@ -1,3 +1,3 @@
 # PROJECT.1
-detailed version
+this is my first  repository
 AUTHOR-VIRAJ
